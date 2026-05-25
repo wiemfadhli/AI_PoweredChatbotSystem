@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 AI-Powered Chatbot System
+# AI-Powered Chatbot System
 
 ### Full-Stack AI Assistant with LLMs, RAG & Vector Database Architecture
 
@@ -21,7 +21,7 @@ Intelligent Conversations • RAG Architecture • Vector Search • Context-Awa
 
 ---
 
-# 🧠 Project Overview
+# Project Overview
 
 This project demonstrates how modern AI assistant systems are built using:
 
@@ -40,7 +40,7 @@ The chatbot is designed for real-world business use cases such as:
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 Traditional chatbots often fail because they:
 
@@ -54,22 +54,22 @@ This leads to poor user experience and increased manual support workload.
 
 ---
 
-# 💡 Solution
+#  Solution
 
 I developed a complete AI-powered chatbot system that combines:
 
-- 🤖 GPT-4 / OpenAI API  
-- 🧠 Retrieval-Augmented Generation (RAG)  
-- 📚 Vector databases (Pinecone / Weaviate)  
-- 💬 Persistent conversation memory  
-- 🌐 Secure backend APIs  
-- ⚡ Scalable modular architecture  
+- GPT-4 / OpenAI API  
+-  Retrieval-Augmented Generation (RAG)  
+-  Vector databases (Pinecone / Weaviate)  
+-  Persistent conversation memory  
+-  Secure backend APIs  
+-  Scalable modular architecture  
 
 The system enables intelligent and human-like conversations with real context awareness.
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```text
 User
@@ -92,7 +92,7 @@ AI Response Generation
 
 ---
 
-# ⚙️ Tech Stack
+#  Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -106,9 +106,9 @@ AI Response Generation
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
-## 🤖 AI & LLM Features
+## AI & LLM Features
 
 - GPT-4 powered conversations  
 - Context-aware responses  
@@ -117,7 +117,7 @@ AI Response Generation
 
 ---
 
-## 🧠 Context Retention
+##  Context Retention
 
 - Persistent conversation memory  
 - Semantic vector search  
@@ -125,7 +125,7 @@ AI Response Generation
 
 ---
 
-## ⚡ Performance Optimization
+##  Performance Optimization
 
 - Optimized API architecture  
 - Cached retrieval system  
@@ -133,7 +133,7 @@ AI Response Generation
 
 ---
 
-## 🌐 Full-Stack Architecture
+##  Full-Stack Architecture
 
 - Secure backend APIs  
 - Interactive frontend interface  
@@ -141,9 +141,9 @@ AI Response Generation
 
 ---
 
-# 🔍 Key Challenges Solved
+# Key Challenges Solved
 
-## 1️⃣ Context Retention
+##  Context Retention
 
 Implemented:
 
@@ -152,7 +152,7 @@ Implemented:
 
 ---
 
-## 2️⃣ AI Response Accuracy
+##  AI Response Accuracy
 
 Improved through:
 
@@ -162,7 +162,7 @@ Improved through:
 
 ---
 
-## 3️⃣ Scalability
+##  Scalability
 
 Achieved using:
 
@@ -172,7 +172,7 @@ Achieved using:
 
 ---
 
-## 4️⃣ Latency Optimization
+##  Latency Optimization
 
 Reduced response time using:
 
@@ -182,16 +182,16 @@ Reduced response time using:
 
 ---
 
-# 📊 Results & Impact
+#  Results & Impact
 
-- ⚡ Faster AI response time  
-- 🧠 More accurate context-aware answers  
-- 📉 Reduced manual customer support workload  
-- 🚀 Scalable production-ready AI architecture  
+-  Faster AI response time  
+-  More accurate context-aware answers  
+-  Reduced manual customer support workload  
+-  Scalable production-ready AI architecture  
 
 ---
 
-# 👨‍💻 My Role
+#  My Role
 
 I handled the complete project lifecycle:
 
